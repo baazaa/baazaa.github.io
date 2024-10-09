@@ -3,6 +3,9 @@ layout: index
 title: Home
 ---
 
+Twitter: [@baazaa9](https://x.com/baazaa9)
+
+
 Latest Posts:
 
 <ul>
