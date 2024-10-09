@@ -4,6 +4,12 @@
 
 @import "{{ site.theme }}";
 
+section {
+  #title {
+    h1 {
+      font-size: 60px;
+    }}}
+
 .post img {
         display: block;
         border:1px solid #021a40;
