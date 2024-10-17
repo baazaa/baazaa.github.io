@@ -51,7 +51,7 @@ In most court-cases it’s principally facts that are in dispute. Did so-and-so 
 
 Dressing up these value-judgements as some sort of crime is simply unfair to the accused. They can’t contest these findings in any more objective arena because they haven’t actually done anything that would put them in a genuine court.
 
-We should be wary of creating processes which are little more than scape-goating machines. The APSC commissioners and the journalists both have an incentive to display how profoundly moral they are by castigating officials for the slightest mistake. All the protections afforded the accused in the adversarial system have been discarded. This of course is doubly-true for a body like NSW ICAC, whose obscene powers are seldom questioned by the scandal-mongers in the print media. 
+We should be wary of creating processes which are little more than scape-goating machines. The APSC commissioners and journalists both have an incentive to display how profoundly moral they are by castigating officials for the slightest mistake. All the protections afforded the accused in the adversarial system have been discarded. This of course is doubly-true for a body like NSW ICAC, whose obscene powers are seldom questioned by the scandal-mongers in the print media. 
 
 ### 8.	So what is to be done?
 
