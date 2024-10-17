@@ -4,6 +4,8 @@ title: "Some notes on Robodebt"
 date: 2024-10-17 14:30:00 +1100
 ---
 
+# Some notes on the Australian robodebt scandal
+
 There are two sources of commentary on robodebt. On one side you have a handful of unhinged journalists and activists who see themselves as crusaders for the victims. On the other side are senior public servants who have reflexively defended their former colleagues and the institution they work for. Alas, being senior public servants, they lack the intelligence which might allow them to proffer a decent defence. So I thought I’d make a few points.
 
 1.	Robodebt was principally a policy failure, not an administrative one.
