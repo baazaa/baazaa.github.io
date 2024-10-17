@@ -45,7 +45,7 @@ The corollary to this is that anyone outraged by Renée Leon’s doings demonstr
 
 ### 7.	Activists are trying to make the witch hunt as witch-hunty as possible. 
 
-Claiming that so many code-of-conduct violations have been found out by some quasi-judicial body is malicious obfuscation. The motive here is obvious, to make it sound like so-and-so has committed some sort of crime and thereby punish them through public disgrace. But the code of conduct is just vague virtue-signalling, written to maintain the pretence that the APS has high standards.
+Claiming that x many code-of-conduct violations have been proven by some quasi-judicial body is malicious obfuscation. The motive here is obvious, to make it sound like so-and-so has committed some sort of crime and thereby punish them through public disgrace. But the code of conduct is just vague virtue-signalling, written to maintain the pretence that the APS has high standards.
 
 In most court-cases it’s principally facts that are in dispute. Did so-and-so murder the victim? When you hear that someone has been found in breach of say, s 13(2) of the Code, you may similarly assume some important matter of fact has been substantiated. But s 13(2) reads: “An APS employee must act with care and diligence in connection with APS employment.” In short, when someone has been found in breach of the code of conduct it’s simply a value-judgement by the commission that they didn’t do their job well enough. No more, no less. 
 
