@@ -33,6 +33,7 @@ The biggest sin committed by incoming secretary Renée Leon was trusting the leg
 But those who’ve worked in one knows it’s important that: a) facts be established once-and-for-all (i.e. the “department’s position”) and b) the decision is delegated to the relevant experts, in this case senior counsel. 
 
 Government departments already creak along very slowly, if you allow the principle that anyone can recontest facts that have already been decided then everything would grind to a halt. A policy might easily take a few years to go from conception to implementation, if anyone in any of those meetings is allowed to say things like ‘hey what if all our lawyers are wrong?’ the entire apparatus will break down. 
+
 The principle that we’re supposed to accept is that the departmental secretary is personally responsible for everything that the department does. This is why increasingly departments do nothing at all, as senior management are paranoid that something might happen underneath them which they’ll be blamed for. I’d propose a very different principle: accountability sits with those who’ve been empowered to make the decision. If legal decisions are delegated to lawyers, then they’re to blame when they make the wrong decision. This is a prerequisite for delegation to work, which is certainly required in departments which employ thousands of people.
 
 ### 6.	Making an example of mere mediocrity is counter-productive
