@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lab-techs as scientists"
-date: 2024-10-16 23:03:00 +1100
+date: 2024-10-19 10:00:00 +1100
 ---
 
 # Lab-techs as scientists
