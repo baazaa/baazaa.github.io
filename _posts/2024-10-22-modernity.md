@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Man-Made modernity"
+title: "Man-made modernity"
 date: 2024-10-22 10:00:00 +1100
 ---
 
