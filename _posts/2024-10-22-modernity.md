@@ -8,7 +8,7 @@ date: 2024-10-22 10:00:00 +1100
 
 <span class="publish-date"> Published on  {{ page.date | date: "%d %B %Y" }}
 
-Where I work in government has largely abandoned the notion of ‘job performance’. If you believe in job performance, then sooner or later you’ll notice that some people are better or worse at their jobs than others, and this might make people who are bad at their jobs feel bad. Because government is obsessed with the mental well-being of its workforce, and unconcerned with serving the public, it follows that job performance is a toxic idea which needs to be discarded.
+Where I work in government has largely abandoned the notion of ‘job performance’. If you believe in job performance, then sooner or later you’ll notice that some people are better or worse at their jobs than others, and this might make employees who are bad at their jobs feel bad. Because government is obsessed with the mental well-being of its workforce, and unconcerned with serving the public, it follows that job performance is a toxic idea which needs to be discarded.
 
 Now it’s very obvious to me that the people most opposed to this turn of events are disagreeable men such as myself, while the biggest supporters of this change are empathetic women who care about their colleagues in a way that, frankly, I don’t. 
 
