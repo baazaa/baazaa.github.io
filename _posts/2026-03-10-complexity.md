@@ -54,7 +54,7 @@ What this means, in practice, is that humans will increasingly not interact with
 
 1. The marginal cost of idiotic modifications to the system will go down. Consider how many pages of regulation get churned out currently, then imagine how much greater it will be once you no longer need to employ people to do it.
 
-2. The immediate downside to this is obviated because it will the LLMs who have to contend with these changes.
+2. The immediate downside to this is obviated because it will be the LLMs who have to contend with these changes.
 
 3. In the long-run the legal code in the black-box will degrade in quality to such an extent that even AI struggles. In part this is because they’re bad at controlling the complexity budget when modifying systems, but mostly it will simply be that the directives they’re receiving are stupid and they’re too obsequious to push back.
 
