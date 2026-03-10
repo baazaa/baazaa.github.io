@@ -3,6 +3,9 @@ layout: post
 title: "The New Complexity Trap"
 date: 2026-03-10 12:00:00 +1100
 ---
+# The New Complexity Trap
+
+<span class="publish-date"> Published on  {{ page.date | date: "%d %B %Y" }}
 
 In my professional life I’ve repeatedly seen the same pattern.
 
