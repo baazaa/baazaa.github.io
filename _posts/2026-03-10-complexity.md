@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Complexity Trap"
-date: 2026-03-11 01:00:00 +1100
+date: 2026-03-10 01:00:00 +1100
 ---
 
 In my professional life I’ve repeatedly seen the same pattern.
