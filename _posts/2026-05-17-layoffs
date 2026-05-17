@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Layoffs"
-date: 2026-05-17 20:00:00 +1100
+date: 2026-05-17 01:00:00 +1100
 ---
-# Layoffs
+# Layoffs and AI
 
 <span class="publish-date"> Published on  {{ page.date | date: "%d %B %Y" }}
 
