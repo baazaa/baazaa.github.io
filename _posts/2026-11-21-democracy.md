@@ -40,7 +40,7 @@ One reason politicians and top officials don’t know what is popular is the inc
 
 3.  Propaganda which is institutionalised in NGOs, think-tanks, and the like. This is by far the most harmful in practice. The state might decide to set up, say, an anti-bullying body in the hopes of changing community attitudes (or, more realistically, they pretend this might occur; in reality, setting up these bodies is a very cheap way of pretending to do something). But then the anti-bullying body ends up spending most of its energy lobbying government to increase internet censorship. There is a huge publicly-funded ecosystem whose ultimate function today is to spread misinformation within the public sector to accomplish objectives which really are in their charter.
 
-Once you take into account all these factors, plus the general incompetence of politicians in the first place, you can usually explain why a given policy direction was chosen even if it later proves to be unpopular. It is fairly rare that a politician knowingly hurts their political career by doing something unpopular.
+Once you take into account all these factors, plus the general incompetence of politicians in the first place, you can usually explain why a given policy direction was chosen even if it later proves to be unpopular. It is fairly rare that a politician knowingly hurts their political career by doing something they expect to be punished for by voters.
 
 ---
 
