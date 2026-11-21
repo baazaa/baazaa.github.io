@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Democracy"
-date: 2026-08-26 03:30:00 +1100
+date: 2026-11-21 19:30:00 +1100
 ---
 # Democracy
 
