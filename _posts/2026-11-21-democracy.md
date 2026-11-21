@@ -116,7 +116,7 @@ Finally, I’ll end on a somewhat pessimistic point. My view is that institution
 
 What this means is that, insofar as there’s a chasm between our political consciousness and our existing political institutions, it’s the institutions which will have to change to bridge the two. The sort of democracy that de Tocqueville wrote about is no longer available to us as a possibility. I would go further and say any maximalist democracy, with universal suffrage and all constitutional power in the hands of elected representatives and their direct appointees, will be dysfunctional due to how people today understand power to work.
 
-I would say there are two possible trajectories from here. One is a move towards a technocracy, where elites (who identify as such) are given explicit powers at the cost of less democratic accountability.
+There are two possible trajectories from here. One is a move towards a technocracy, where elites (who identify as such) are given explicit powers at the cost of less democratic accountability.
 
 To give a demonstration of what I mean: our governments have remarkably little capacity to regulate themselves. This is deliberate: voters are meant to be the check on government, and any internal regulatory capacity would be competing directly with voters in this regard. E.g., if a rule is made that all grants need to be cost-benefitted, that directly reduces the discretionary power of elected officials and thus voters, which is why such rules are either rare or only advisory. This is no longer tenable: voters don’t feel that their job is to monitor the grant-making process, and changing their mindset is all but impossible, so regulatory bodies made up of technocrats must be created to fill that role.
 
